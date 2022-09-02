@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vijaysahoo149@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1Ot7_L7CZz3WABEzGmDlMVWj4tSRgTM2W?usp=sharing](https://drive.google.com/drive/folders/1Ot7_L7CZz3WABEzGmDlMVWj4tSRgTM2W?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1Ot7_L7CZz3WABEzGmDlMVWj4tSRgTM2W?usp=sharing](https://drive.google.com/drive/folders/1tr_-8_4qcN50Itb4NV0ewDGTfX20lnr-?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
