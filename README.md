@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vijay Sahoo</h1>
 <h3 align="center">A passionate frontend App developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developer-vijay" alt="developer-vijay" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developer-vijay" alt="developer-vijay" /></a> </p> -->
 
 - 🔭 I’m currently working on **Random Projects to learn State Management**
 
