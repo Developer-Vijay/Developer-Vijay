@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Random Projects to learn State Management**
 
-- 🌱 I’m currently learning **Flutter FrameWork SwiftUi, Data Structures , Java Script,Node js**
+- 🌱 I’m currently learning **Flutter FrameWork , SwiftUi, Data Structures , Java Script,Node js, Django**
 
 - 💬 Ask me about **Flutter , Collaboration in Project**
 
